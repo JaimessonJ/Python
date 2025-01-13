@@ -1,6 +1,6 @@
 my_tuple = tuple()
 my_other_tuple = ()
-
+ 
 my_tuple = (24, "Alejandro", 1.79)
 my_other_tuple = (65, 58, 99)
 print(my_tuple)
