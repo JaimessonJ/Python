@@ -56,7 +56,7 @@ print(my_list)
 my_pop_element = my_list.pop(2)
 print(my_pop_element)
 print(my_list)
-
+ 
 del my_list[2]
 print(my_list)
 
