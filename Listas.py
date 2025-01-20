@@ -10,7 +10,7 @@ my_list = [25, 52, 42, 43, 16, 18, 22, 25]
 print(my_list)
 print(len(my_list))
 
-my_other_list = [25, 1.79, "Alejandro", "Macias"]
+my_other_list = [25, 1.79, "Coke", "Water"]
 
 print(type(my_other_list))
 print(type(my_list))
@@ -34,7 +34,7 @@ print(name)
 print(my_list + my_other_list)
 #print(my_list - my_other_list)
 
-my_other_list.append("Quintero")
+my_other_list.append("Pepsi")
 print(my_other_list)
 
 my_other_list.insert(1, "Red")
@@ -56,7 +56,7 @@ print(my_list)
 my_pop_element = my_list.pop(2)
 print(my_pop_element)
 print(my_list)
- 
+    
 del my_list[2]
 print(my_list)
 
